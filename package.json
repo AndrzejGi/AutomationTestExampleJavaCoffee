@@ -1,0 +1,19 @@
+{
+  "name": "javacoffee",
+  "version": "1.0.0",
+  "description": "JAVAcoffee testy automatyczne",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "JAVAcoffee",
+    "testy",
+    "automatyczne"
+  ],
+  "author": "Andrzej G",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
